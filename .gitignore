@@ -1,0 +1,3 @@
+.DS_Store
+.ipynb_checkpoints
+model.weights.best.hdf5
